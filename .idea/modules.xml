@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AppRegistro.iml" filepath="$PROJECT_DIR$/AppRegistro.iml" />
+      <module fileurl="file://C:\irineu\AppRegistroRafa\AppRegistro.iml" filepath="C:\irineu\AppRegistroRafa\AppRegistro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AppRegistroRafa.iml" filepath="$PROJECT_DIR$/.idea/AppRegistroRafa.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\irineu\AppRegistroRafa\app\app.iml" filepath="C:\irineu\AppRegistroRafa\app\app.iml" />
     </modules>
   </component>
 </project>
